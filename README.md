@@ -1,4 +1,5 @@
 # libft
+<<<<<<< HEAD
 A Custom Standard C Library
 Features
 📚 Reimplemented Standard Functions
@@ -36,3 +37,6 @@ ft_strtrim – Trim unwanted characters from the beginning and end of a string.
 Numerical Conversions
 
 ft_atoi – Convert a string to an integer.
+=======
+C library, collection of functions to work with strings and memory, validate symbols, convert. 
+>>>>>>> master
